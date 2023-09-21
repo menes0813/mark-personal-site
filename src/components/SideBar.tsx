@@ -4,8 +4,8 @@ import {
   chevronDown,
   locationOutline,
   logoGithub,
-  mailOutline,
-  phonePortraitOutline,
+  // mailOutline,
+  // phonePortraitOutline,
 } from "ionicons/icons";
 import React from "react";
 
@@ -38,7 +38,7 @@ const SideBar: React.FC = () => {
         <div className="separator"></div>
 
         <ul className="contacts-list">
-          <li className="contact-item">
+          {/* <li className="contact-item">
             <div className="icon-box">
               <IonIcon icon={mailOutline} />
             </div>
@@ -64,7 +64,7 @@ const SideBar: React.FC = () => {
                 {personalInfo.phone}
               </a>
             </div>
-          </li>
+          </li> */}
 
           <li className="contact-item">
             <div className="icon-box">

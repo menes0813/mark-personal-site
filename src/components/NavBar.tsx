@@ -56,7 +56,7 @@ const NavBar: React.FC = () => {
           </button>
         </li>
 
-        <li className="navbar-item">
+        {/* <li className="navbar-item">
           <button
             className={classNames("navbar-link", {
               active: navState === NavState.CONTACT,
@@ -66,7 +66,7 @@ const NavBar: React.FC = () => {
           >
             Contact
           </button>
-        </li>
+        </li> */}
       </ul>
     </nav>
   );

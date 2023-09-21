@@ -8,5 +8,5 @@ export const personalInfo = {
   dob: "September 14, 1996",
   location: "Baccor, Calabarzon 4102, Philippines",
   github: "https://github.com/markflorence728",
-  title: "Web Developer",
+  title: "Software Engineer",
 };
