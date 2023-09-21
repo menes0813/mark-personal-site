@@ -10,10 +10,7 @@ import clientAvatar2 from "assets/images/client-andre.jpeg";
 import clientAvatar3 from "assets/images/client-elliot.jpeg";
 
 import clientLogo1 from "assets/images/logo-noumena.png";
-import clientLogo2 from "assets/images/logo-skipforce.jpeg";
-import clientLogo3 from "assets/images/logo-desertsoftware.png";
 import clientLogo4 from "assets/images/logo-datemine.png";
-import clientLogo5 from "assets/images/logo-mycashless.jpeg";
 import clientLogo6 from "assets/images/logo-fultonwork.png";
 import clientLogo7 from "assets/images/logo-metricfire.jpeg";
 
