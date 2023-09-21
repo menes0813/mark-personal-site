@@ -1,7 +1,7 @@
 export const educations = [
   {
     name: "Occidental Mindoro National College",
-    duration: "04/2021 - 03/2018",
+    duration: "04/2014 - 03/2018",
     major: "Mathematic & Computer Science"
   }
 ]
