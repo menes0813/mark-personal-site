@@ -1,7 +1,7 @@
-import portfolioNoumena from "assets/images/portfolio-noumena.png";
-import portfolioNoumenaMobile from "assets/images/portfolio-noumena-app.png";
-import portfolioFullton from "assets/images/portfolio-fulton.png";
-import portfolioMetricFire from "assets/images/portfolio-metricfire-1.png";
+import portfolioNoumena from "assets/images/portfolios/noumena.png";
+import portfolioNoumenaMobile from "assets/images/portfolios/noumena-app.png";
+import portfolioFullton from "assets/images/portfolios/fulton.png";
+import portfolioMetricFire from "assets/images/portfolios/metricfire-1.png";
 
 
 export enum Category {

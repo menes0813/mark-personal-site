@@ -1,18 +1,18 @@
-import serviceBusinessImage from "assets/images/service-business.png";
-import serviceArchitectureImage from "assets/images/service-architecture.png";
-import serviceFrontendImage from "assets/images/service-frontend.png";
-import serviceBackendImage from "assets/images/service-backend.png";
-import serviceIntegrationImage from "assets/images/service-integration.png";
-import serviceScheduleImage from "assets/images/service-schedule.png";
+import serviceBusinessImage from "assets/images/services/business.png";
+import serviceArchitectureImage from "assets/images/services/architecture.png";
+import serviceFrontendImage from "assets/images/services/frontend.png";
+import serviceBackendImage from "assets/images/services/backend.png";
+import serviceIntegrationImage from "assets/images/services/integration.png";
+import serviceScheduleImage from "assets/images/services/schedule.png";
 
-import clientAvatar1 from "assets/images/client-brent.jpeg";
-import clientAvatar2 from "assets/images/client-andre.jpeg";
-import clientAvatar3 from "assets/images/client-elliot.jpeg";
+import clientAvatar1 from "assets/images/clients/brent.jpeg";
+import clientAvatar2 from "assets/images/clients/andre.jpeg";
+import clientAvatar3 from "assets/images/clients/elliot.jpeg";
 
-import clientLogo1 from "assets/images/logo-noumena.png";
-import clientLogo4 from "assets/images/logo-datemine.png";
-import clientLogo6 from "assets/images/logo-fultonwork.png";
-import clientLogo7 from "assets/images/logo-metricfire.jpeg";
+import clientLogo1 from "assets/images/companies/logo-noumena.png";
+import clientLogo4 from "assets/images/companies/logo-datemine.png";
+import clientLogo6 from "assets/images/companies/logo-fultonwork.png";
+import clientLogo7 from "assets/images/companies/logo-metricfire.jpeg";
 
 export const summary = [
   "Hi. I provide web development services for startups, and small and medium-sized enterprises. I have worked on tens of challenging projects and looking for more opportunity.",
