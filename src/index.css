@@ -820,9 +820,6 @@ main {
 
 .tech-skills {
   margin-bottom: 15px;
-  padding: 16px;
-  background-color: white;
-  border-radius: 15px;
 }
 
 .tech-skills-list {
@@ -850,7 +847,7 @@ main {
 
 .tech-skills-item img {
   width: auto;
-  height: 60px;
+  height: 50px;
   /* filter: grayscale(1); */
   transition: var(--transition-1);
   border-radius: 5px !important;
@@ -860,9 +857,6 @@ main {
   filter: grayscale(0);
 }
 
-.tech-skills-title {
-  color: black;
-}
 
 /*-----------------------------------*\
   #RESUME

@@ -27,12 +27,11 @@ const About: React.FC = () => {
 
       <Services />
 
+      <Skills />
+
       <Testimonials />
 
       <Clients />
-
-      <Skills />
-
     </article>
   );
 };

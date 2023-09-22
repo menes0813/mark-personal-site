@@ -29,7 +29,6 @@ import xml from "assets/images/skills/icon_xml.png";
 
 import git from "assets/images/skills/icon_git.png";
 import docker from "assets/images/skills/icon_docker.png";
-import regx from "assets/images/skills/icon_regx.png";
 import graphql from "assets/images/skills/icon_graphql.png";
 
 export const techSkills = {
@@ -46,5 +45,5 @@ export const techSkills = {
   ],
   databases: [mssql, mysql, postgresql, mongodb, elasticsearch],
   cloudServices: [aws, gcp],
-  others: [git, docker, graphql, json, xml, regx ],
+  others: [git, docker, graphql, json, xml ],
 };
