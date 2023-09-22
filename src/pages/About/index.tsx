@@ -5,9 +5,9 @@ import classNames from "classnames";
 
 import { AboutMe } from "./AboutMe";
 import { Services } from "./Services";
-
 import { Testimonials } from "./Testimonials";
 import { Clients } from "./Clients";
+import { Skills } from "./Skills";
 
 const About: React.FC = () => {
   const { navState } = useContext(NavContext);
@@ -30,6 +30,9 @@ const About: React.FC = () => {
       <Testimonials />
 
       <Clients />
+
+      <Skills />
+
     </article>
   );
 };
